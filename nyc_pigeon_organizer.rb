@@ -23,6 +23,6 @@ end
 end
 
 
-new_hash[name]= key[new_value]
+
 
 
