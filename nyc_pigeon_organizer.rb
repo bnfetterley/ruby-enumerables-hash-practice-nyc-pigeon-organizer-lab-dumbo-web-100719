@@ -7,7 +7,6 @@ def nyc_pigeon_organizer(data)
       names.each do |name|
        if !new_hash[name]
         new_hash[name] = {}
-        new_hash[name]= key[new_value]
       end
       end
     end
@@ -17,6 +16,6 @@ def nyc_pigeon_organizer(data)
 end
 
 
-
+new_hash[name]= key[new_value]
 
 
