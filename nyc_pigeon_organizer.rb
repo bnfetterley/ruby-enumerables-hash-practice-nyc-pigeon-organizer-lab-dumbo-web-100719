@@ -20,7 +20,7 @@ require 'pry'
   new_hash
   
 end
-end
+
 
 
 
