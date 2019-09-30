@@ -12,7 +12,7 @@ require 'pry'
         
         if !new_hash[name][key]
           new_hash[name][key] = []
-          new_hash[name][key] = [new_value]
+          new_hash[name][key] = new_value
         end
         
         end
