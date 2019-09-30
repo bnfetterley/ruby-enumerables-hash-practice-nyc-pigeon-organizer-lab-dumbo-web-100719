@@ -13,7 +13,7 @@ require 'pry'
         if !new_hash[name][key]
           new_hash[name][key] = []
          new_hash[name][key] << new_value.to_s 
-       binding.pry
+      # binding.pry
         end
         
         end
